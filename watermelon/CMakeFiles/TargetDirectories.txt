@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/watermelon/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/watermelon/CMakeFiles/watermelon.dir
+/home/masha/development/sandbox/cpp_sandbox/watermelon/CMakeFiles/edit_cache.dir
