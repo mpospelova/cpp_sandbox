@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/socks/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/socks/CMakeFiles/socks.dir
+/home/masha/development/sandbox/cpp_sandbox/socks/CMakeFiles/edit_cache.dir

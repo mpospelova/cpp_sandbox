@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/countingValleys/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/countingValleys/CMakeFiles/countingValleys.dir
+/home/masha/development/sandbox/cpp_sandbox/countingValleys/CMakeFiles/edit_cache.dir

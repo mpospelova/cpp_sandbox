@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/socks.dir/socks.cpp.o  -o socks 
