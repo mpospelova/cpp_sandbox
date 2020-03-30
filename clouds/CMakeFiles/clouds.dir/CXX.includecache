@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/masha/development/sandbox/cpp_sandbox/clouds/clouds.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+queue
+-
+

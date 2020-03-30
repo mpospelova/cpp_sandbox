@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/clouds/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/clouds/CMakeFiles/clouds.dir
+/home/masha/development/sandbox/cpp_sandbox/clouds/CMakeFiles/edit_cache.dir
