@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/arrays/2darr/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/arrays/2darr/CMakeFiles/2darr.dir
+/home/masha/development/sandbox/cpp_sandbox/arrays/2darr/CMakeFiles/edit_cache.dir
