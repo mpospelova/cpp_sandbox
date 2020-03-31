@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/arrays/chaos/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/arrays/chaos/CMakeFiles/chaos.dir
+/home/masha/development/sandbox/cpp_sandbox/arrays/chaos/CMakeFiles/edit_cache.dir
