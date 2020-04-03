@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/two_strings/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/two_strings/CMakeFiles/strings.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/two_strings/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/sherlock/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/sherlock/CMakeFiles/sherlock.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/sherlock/CMakeFiles/edit_cache.dir
