@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/count_triples/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/count_triples/CMakeFiles/triples.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/count_triples/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/triples.dir/triples.cpp.o  -o triples 
