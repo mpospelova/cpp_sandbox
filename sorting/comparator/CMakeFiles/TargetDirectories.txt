@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/sorting/comparator/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/sorting/comparator/CMakeFiles/comparator.dir
+/home/masha/development/sandbox/cpp_sandbox/sorting/comparator/CMakeFiles/edit_cache.dir

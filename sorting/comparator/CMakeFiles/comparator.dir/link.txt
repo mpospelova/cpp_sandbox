@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/comparator.dir/comparator.cpp.o  -o comparator 
