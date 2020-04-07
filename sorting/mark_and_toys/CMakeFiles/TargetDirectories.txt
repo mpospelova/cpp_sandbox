@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/sorting/mark_and_toys/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/sorting/mark_and_toys/CMakeFiles/mt.dir
+/home/masha/development/sandbox/cpp_sandbox/sorting/mark_and_toys/CMakeFiles/edit_cache.dir

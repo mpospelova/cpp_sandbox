@@ -14,7 +14,7 @@ void countSwaps(std::vector<int> a) {
         }
     }
 
-    std::cout << "Array is sorted in " << swaps << " swaps." << std::endl;
+    std::cout << "Array is sorted in " << swaps << " swaps.1" << std::endl;
     std::cout << "First Element: " << a[0] << std::endl;
     std::cout << "Last Element: " << a[a.size()-1] << std::endl;
 }
