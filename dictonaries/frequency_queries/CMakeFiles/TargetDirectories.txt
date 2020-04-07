@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/frequency_queries/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/frequency_queries/CMakeFiles/queries.dir
+/home/masha/development/sandbox/cpp_sandbox/dictonaries/frequency_queries/CMakeFiles/edit_cache.dir
