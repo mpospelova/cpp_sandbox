@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/watermelon.cpp" "/home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles/watermelon.dir/watermelon.cpp.o"
+  "/home/masha/development/sandbox/cpp_sandbox/warmup/strings/strings.cpp" "/home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles/strings.dir/strings.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

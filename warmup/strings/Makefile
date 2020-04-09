@@ -65,10 +65,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon
+CMAKE_SOURCE_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/strings
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon
+CMAKE_BINARY_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/strings
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -97,9 +97,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles /home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,44 +128,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named watermelon
+# Target rules for targets named strings
 
 # Build rule for target.
-watermelon: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 watermelon
-.PHONY : watermelon
+strings: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 strings
+.PHONY : strings
 
 # fast build rule for target.
-watermelon/fast:
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/build
-.PHONY : watermelon/fast
+strings/fast:
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/build
+.PHONY : strings/fast
 
-watermelon.o: watermelon.cpp.o
+strings.o: strings.cpp.o
 
-.PHONY : watermelon.o
+.PHONY : strings.o
 
 # target to build an object file
-watermelon.cpp.o:
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/watermelon.cpp.o
-.PHONY : watermelon.cpp.o
+strings.cpp.o:
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/strings.cpp.o
+.PHONY : strings.cpp.o
 
-watermelon.i: watermelon.cpp.i
+strings.i: strings.cpp.i
 
-.PHONY : watermelon.i
+.PHONY : strings.i
 
 # target to preprocess a source file
-watermelon.cpp.i:
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/watermelon.cpp.i
-.PHONY : watermelon.cpp.i
+strings.cpp.i:
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/strings.cpp.i
+.PHONY : strings.cpp.i
 
-watermelon.s: watermelon.cpp.s
+strings.s: strings.cpp.s
 
-.PHONY : watermelon.s
+.PHONY : strings.s
 
 # target to generate assembly for a file
-watermelon.cpp.s:
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/watermelon.cpp.s
-.PHONY : watermelon.cpp.s
+strings.cpp.s:
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/strings.cpp.s
+.PHONY : strings.cpp.s
 
 # Help Target
 help:
@@ -175,10 +175,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... watermelon"
-	@echo "... watermelon.o"
-	@echo "... watermelon.i"
-	@echo "... watermelon.s"
+	@echo "... strings"
+	@echo "... strings.o"
+	@echo "... strings.i"
+	@echo "... strings.s"
 .PHONY : help
 
 

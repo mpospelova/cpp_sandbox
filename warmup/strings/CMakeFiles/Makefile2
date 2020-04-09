@@ -61,16 +61,16 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon
+CMAKE_SOURCE_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/strings
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon
+CMAKE_BINARY_DIR = /home/masha/development/sandbox/cpp_sandbox/warmup/strings
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/watermelon.dir/all
+all: CMakeFiles/strings.dir/all
 
 .PHONY : all
 
@@ -80,36 +80,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/watermelon.dir/clean
+clean: CMakeFiles/strings.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/watermelon.dir
+# Target rules for target CMakeFiles/strings.dir
 
 # All Build rule for target.
-CMakeFiles/watermelon.dir/all:
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/depend
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles --progress-num=1,2 "Built target watermelon"
-.PHONY : CMakeFiles/watermelon.dir/all
+CMakeFiles/strings.dir/all:
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/depend
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles --progress-num=1,2 "Built target strings"
+.PHONY : CMakeFiles/strings.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/watermelon.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/watermelon.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/CMakeFiles 0
-.PHONY : CMakeFiles/watermelon.dir/rule
+CMakeFiles/strings.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/strings.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/masha/development/sandbox/cpp_sandbox/warmup/strings/CMakeFiles 0
+.PHONY : CMakeFiles/strings.dir/rule
 
 # Convenience name for target.
-watermelon: CMakeFiles/watermelon.dir/rule
+strings: CMakeFiles/strings.dir/rule
 
-.PHONY : watermelon
+.PHONY : strings
 
 # clean rule for target.
-CMakeFiles/watermelon.dir/clean:
-	$(MAKE) -f CMakeFiles/watermelon.dir/build.make CMakeFiles/watermelon.dir/clean
-.PHONY : CMakeFiles/watermelon.dir/clean
+CMakeFiles/strings.dir/clean:
+	$(MAKE) -f CMakeFiles/strings.dir/build.make CMakeFiles/strings.dir/clean
+.PHONY : CMakeFiles/strings.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/masha/development/sandbox/cpp_sandbox/warmup/watermelon/watermelon.cpp
-iostream
--
-vector
--
-numeric
--
-algorithm
+/home/masha/development/sandbox/cpp_sandbox/warmup/strings/strings.cpp
+bits/stdc++.h
 -
 
