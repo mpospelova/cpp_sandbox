@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/masha/development/sandbox/cpp_sandbox/sorting/fraudulent_activity_notifications/fan.cpp
+bits/stdc++.h
+-
+

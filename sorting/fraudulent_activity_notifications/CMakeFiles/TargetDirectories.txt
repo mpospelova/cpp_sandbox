@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/sorting/fraudulent_activity_notifications/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/sorting/fraudulent_activity_notifications/CMakeFiles/fan.dir
+/home/masha/development/sandbox/cpp_sandbox/sorting/fraudulent_activity_notifications/CMakeFiles/edit_cache.dir
