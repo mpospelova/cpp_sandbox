@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/graphs/bfs/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/bfs/CMakeFiles/bfs.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/bfs/CMakeFiles/edit_cache.dir
