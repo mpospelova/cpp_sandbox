@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/graphs/kruskal/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/kruskal/CMakeFiles/kruskal.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/kruskal/CMakeFiles/edit_cache.dir
