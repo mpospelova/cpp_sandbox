@@ -17,7 +17,7 @@ int root(std::vector<int>parents, int child) {
     return child;
 }
 
-int kruskals(int num_nodes, std::vector<int>nodes, std::vector<connection>connections) {
+int kruskals(int num_nodes, std::vector<connection>connections) {
     std::vector<int>parent(num_nodes + 1, -1);
     int counter = 0;
     for(auto x : connections) {
@@ -48,13 +48,8 @@ int main() {
         kc.to = to;
         kc.weight = weight;
         connections.push_back(kc);
-        nodes.push_back(from);
-        nodes.push_back(to);
     }
-    std::sort(nodes.begin(), nodes.end());
-    nodes.erase(std::unique(nodes.begin(), nodes.end()), nodes.end());
-
     std::sort(connections.begin(), connections.end(), [](auto x, auto y){return x.weight < y.weight;});
-    std::cout << kruskals(num_nodes, nodes, connections) << std::endl;
+    std::cout << kruskals(num_nodes, connections) << std::endl;
     return 0;
 }
