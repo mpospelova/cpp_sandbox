@@ -51,11 +51,6 @@ int main() {
                 edges_per_index[v].push_back(u);
         }
 
-        for(int i = 0; i < edges_per_index.size(); i++) {
-            std::cout << edges_per_index[i].size() << ' ';
-        }
-
-
         int start;
         std::cin >> start;
         std::vector<int>dist = bfs(number_nodes, number_edges, edges_per_index, start);
