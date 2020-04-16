@@ -1,3 +1,2 @@
-# cpp_sandbox
-
-all coding exercises are from hackerrank
+# cpp sandbox
+all problem statements are taken from hackerrank and hackerearth
