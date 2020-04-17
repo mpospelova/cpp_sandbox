@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/graphs/dijkstra/build/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/dijkstra/build/CMakeFiles/dijkstra.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/dijkstra/build/CMakeFiles/edit_cache.dir
