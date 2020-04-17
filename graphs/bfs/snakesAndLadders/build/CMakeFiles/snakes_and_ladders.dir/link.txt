@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/snakes_and_ladders.dir/snakes_and_ladders.cpp.o  -o snakes_and_ladders 

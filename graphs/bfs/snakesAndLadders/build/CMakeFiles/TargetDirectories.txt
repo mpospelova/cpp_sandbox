@@ -1,0 +1,3 @@
+/home/masha/development/sandbox/cpp_sandbox/graphs/bfs/snakesAndLadders/build/CMakeFiles/rebuild_cache.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/bfs/snakesAndLadders/build/CMakeFiles/snakes_and_ladders.dir
+/home/masha/development/sandbox/cpp_sandbox/graphs/bfs/snakesAndLadders/build/CMakeFiles/edit_cache.dir
