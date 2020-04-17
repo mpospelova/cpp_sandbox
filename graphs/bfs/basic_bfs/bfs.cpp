@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-
+//basic bfs algorithm
 std::vector<int> bfs(int num_nodes, int num_edges, std::vector<std::vector<int>> edges, int start) {
     std::vector<bool>visited(num_nodes + 1, false);
     std::vector<int>dist(num_nodes + 1, 0);
